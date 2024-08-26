@@ -105,7 +105,7 @@ With over 7+ years of experience in software development, I specialize in buildi
 
 I'm always open to discussing new opportunities, projects, or just sharing knowledge. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadimahamad%20Naikwade-blue)](https://www.linkedin.com/in/nadimahamad-naikwade)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadimahamad%20Naikwade-blue)](https://www.linkedin.com/in/nadimahamad-naikwade-63081110a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-Nadimahamad-black)](https://github.com/nadimahamad)
 
 ---
