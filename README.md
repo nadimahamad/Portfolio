@@ -1,8 +1,6 @@
 # Portfolio
-Nadimahamad Naikwade Software Engineer | AI Prompt Engineer | ChatGPT | Mobile Application Developer | Frontend Developer | React Native ( Android | iOS ). #reactnative #reactnativedeveloper #AIPromptEngineer #ChatGPT
-
-Here's an attractive GitHub portfolio README content based on your details:
-
+# Nadimahamad Naikwade 
+Software Engineer | AI Prompt Engineer | ChatGPT | Mobile Application Developer | Frontend Developer | React Native ( Android | iOS ). #reactnative #reactnativedeveloper #AIPromptEngineer #ChatGPT
 ---
 
 # Hi, I'm Nadimahamad S. Naikwade 👋
@@ -16,7 +14,7 @@ Here's an attractive GitHub portfolio README content based on your details:
 
 ## About Me
 
-With over 7 years of experience in software development, I specialize in building robust, scalable mobile applications using React Native. My journey in tech has been marked by a quick adaptation to new technologies, seamless integration of third-party plugins, and a passion for continuous learning. Whether it's API integration, push notifications, or optimizing UI/UX, I thrive on delivering top-notch solutions that meet business objectives.
+With over 7+ years of experience in software development, I specialize in building robust, scalable mobile applications using React Native. My journey in tech has been marked by a quick adaptation to new technologies, seamless integration of third-party plugins, and a passion for continuous learning. Whether it's API integration, push notifications, or optimizing UI/UX, I thrive on delivering top-notch solutions that meet business objectives.
 
 ---
 
@@ -90,12 +88,16 @@ With over 7 years of experience in software development, I specialize in buildin
 
 ---
 
+## 🏆 Certifications
+
+- **[LinkedIn Learning Certifications](https://www.linkedin.com/in/nadimahamad-naikwade-63081110a/details/featured/)**
+
+---
+
 ## 🌍 Personal Details
 
 - **Location:** Remote
 - **Languages:** English, Hindi, Marathi
-- **CTC:** 10L | **Expected Salary:** 15L
-- **Notice Period:** 1-2 weeks
 
 ---
 
@@ -111,5 +113,3 @@ I'm always open to discussing new opportunities, projects, or just sharing knowl
 ### Thanks for visiting my profile! 🙌
 
 ---
-
-This content should give a professional and engaging overview of your skills, experience, and projects, making your GitHub profile stand out.
