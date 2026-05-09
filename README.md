@@ -1,115 +1,45 @@
-# Portfolio
-# Nadimahamad Naikwade 
-Software Engineer | AI Prompt Engineer | ChatGPT | Mobile Application Developer | Frontend Developer | React Native ( Android | iOS ). #reactnative #reactnativedeveloper #AIPromptEngineer #ChatGPT
----
-
-# Hi, I'm Nadimahamad S. Naikwade 👋
-
-### 🚀 Software Engineer | React Native Enthusiast | 7+ Years of Experience
-
-📞 **Mobile:** (+91) 8050160758  
-📧 **Email:** [nadeemnaikwade102@gmail.com](mailto:nadeemnaikwade102@gmail.com)
-
----
-
-## About Me
-
-With over 7+ years of experience in software development, I specialize in building robust, scalable mobile applications using React Native. My journey in tech has been marked by a quick adaptation to new technologies, seamless integration of third-party plugins, and a passion for continuous learning. Whether it's API integration, push notifications, or optimizing UI/UX, I thrive on delivering top-notch solutions that meet business objectives.
-
----
-
-## 🔧 Skills & Expertise
-
-- **React Native (iOS + Android)**
-- **Restful APIs Integration**
-- **Firebase Integration for Push Notifications**
-- **Third-Party Plugin Integration**
-- **Agile Methodologies**
-- **Quick Tech Adoption Curve**
-- **Research & Development**
-
----
-
-## 💼 Work Experience
-
-### Freelancing Work (Nov 2022 – Present)  
-**Role:** Software Engineer
-
-### MAXIMESS SOFTWARES (Sep 2021 – Oct 2022)  
-**Role:** Software Engineer  
-[Visit Website](https://maximess.com)
-
-### FATHOM SOFTWARES (Oct 2019 – Sep 2021)  
-**Role:** Software Engineer  
-[Visit Website](http://www.fathomable.com)
-
-### WORKFLOW SOFTWARES (July 2018 – Sep 2019)  
-**Role:** Senior Software Developer  
-[Visit Website](http://www.workflowsoftwares.in)
-
-### DREAMERS SOFTWARES (Nov 2017 – Apr 2018)  
-**Role:** Software Developer
-
-### PUMPKIN SOFTWARES (June 2015 – June 2017)  
-**Role:** Associate Software Developer
-
----
-
-## 🌟 Projects
-
-### **SkliQ**
-**Tech Stack:** React Native, Laravel, MySQL  
-- Developed key functionalities for a Human Intelligence Platform as a Service (HIPaaS).
-- Migrated the mobile app from Expo to React Native CLI for enhanced performance.
-
-### **My Life Assistant**
-**Tech Stack:** React JS, React Native, PHP, Laravel, MySQL, Elastic Search  
-- Contributed to an e-commerce aggregator platform with a focus on API integration and third-party plugin development.
-
-### **BrandArmy**
-**Tech Stack:** Android Studio, XCode, VSCode, Bitbucket  
-- Worked on a B2C platform for celebrities and influencers, integrating Firebase and handling live streaming with Mux.
-
-### **Knect**
-**Tech Stack:** VSCode, XCode, Android Studio, Bitbucket  
-- Developed a communication app for Jiu-Jitsu students, focusing on Firebase integration and push notifications.
-
-### **A3 SERVICES Delivery Boy App**
-**Tech Stack:** Android Studio, SQLite  
-- Built and maintained an Android app for delivery personnel with integrated Google Maps and direct call functionality.
-
----
-
-## 🎓 Education
-
-- **BCA**, K.L.E’s BBA and BCA College, Nipani (2015)
-- **12th Science (PCM)**, Devchand College, Arjunnagar (2012)
-- **10th (S.S.C)**, M.D High School, Arjunnagar (2010)
-
----
-
-## 🏆 Certifications
-
-- **[LinkedIn Learning Certifications](https://www.linkedin.com/in/nadimahamad-naikwade-63081110a/details/featured/)**
-
----
-
-## 🌍 Personal Details
-
-- **Location:** Remote
-- **Languages:** English, Hindi, Marathi
-
----
-
-## 🚀 Let's Connect
-
-I'm always open to discussing new opportunities, projects, or just sharing knowledge. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadimahamad%20Naikwade-blue)](https://www.linkedin.com/in/nadimahamad-naikwade-63081110a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![GitHub](https://img.shields.io/badge/GitHub-Nadimahamad-black)](https://github.com/nadimahamad)
-
----
-
-### Thanks for visiting my profile! 🙌
-
----
+## Updated README.md
+# Nadimahamad S. Naikwade 👋
+### Senior React Native Developer | Technical Lead | Full-Stack Web Enthusiast
+📍 Nipani, Karnataka, India (Open to Remote)
+### 🚀 Professional Profile
+Senior React Native Developer and **Technical Lead** with over **8.5+ years** of experience in delivering high-performance cross-platform mobile applications for Android and iOS. Currently leading the development of secure, enterprise-grade incident response platforms featuring **Post-Quantum Cryptography** and **WebRTC** communications.
+I am passionate about building secure, scalable architectures and am currently expanding my expertise into **Full-Stack Web Development** with React JS and Next.js.
+### 🔧 Skills & Expertise
+| Category | Technologies |
+|---|---|
+| **Mobile** | **React Native**, Android Studio, Xcode, Expo |
+| **Frontend** | **React JS**, Next.js, Redux, RTK Query |
+| **Backend** | Python (**Django**), PHP (**Laravel**), MySQL, PostgreSQL, RESTful APIs |
+| **Security** | **NIST Post-Quantum Crypto (Kyber/Dilithium)**, AES-256, MFA, RBAC |
+| **Tools & DevOps** | Git, GitLab, Bitbucket, Firebase, WebRTC, Mux, Stripe |
+### 💼 Professional Experience
+**Technical Lead – React Native** | **G2 Solutions Pvt. Ltd.** (Remote)
+*Oct 2025 – Present*
+ * Leading the development of **Cyberclan**, a secure incident-response platform.
+ * Implemented **NIST post-quantum cryptographic algorithms** (Kyber/Dilithium) for secure messaging.
+ * Architected **WebRTC-based encrypted video/voice calling** and a Secure Document Vault with AES-256 encryption.
+ * Collaborating on a **Django Admin Portal** to enforce Service Level Targets (SLT) and RBAC.
+**Senior React Native Developer** | **G2 Solutions Pvt. Ltd.** (Remote)
+*Nov 2024 – Oct 2025*
+ * Managed **FAM Connect**, optimizing state management using **RTK Query** for complex API integrations.
+ * Improved user retention by resolving operational gaps in event management workflows.
+**Software Engineer** | **Maximess Softwares**
+*Sep 2021 – Oct 2022*
+ * Migrated the **SkliQ** (HIPaaS) platform from Expo to React Native CLI.
+ * Integrated third-party plugins and built custom UI components for a Human Intelligence Platform.
+**Software Engineer** | **Fathom Softwares**
+*Oct 2019 – Sep 2021*
+ * **BrandArmy:** B2C Creator platform; integrated **Mux** for live streaming and **Stripe** for payments.
+ * **My Life Assistant:** Developed an eCommerce aggregator with **Elasticsearch** and in-app update systems.
+ * **Knect:** Built a student communication app with Firebase phone authentication.
+**Senior Software Developer** | **Workflow Softwares**
+*Jul 2018 – Sep 2019*
+ * Developed the **A3 Services** delivery app with Google Maps and order tracking.
+ * Built the **Janata Construction** web app (Admin module & GST billing).
+### 🎓 Education
+ * **Bachelor of Computer Applications (BCA)** | K.L.E's College, Nipani (2015)
+ * **12th Science (HSC)** | Devchand College, Arjunnagar (2012)
+### 📫 Let's Connect!
+ * **Email:** nadeemnaikwade102@gmail.com
+ * **Mobile:** +91 8050160758
