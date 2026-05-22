@@ -14,18 +14,15 @@ I am passionate about building secure, scalable architectures and am currently e
 | **Security** | **NIST Post-Quantum Crypto (Kyber/Dilithium)**, AES-256, MFA, RBAC |
 | **Tools & DevOps** | Git, GitLab, Bitbucket, Firebase, WebRTC, Mux, Stripe |
 ### 💼 Professional Experience
-**Technical Lead – React Native** | **G2 Solutions Pvt. Ltd.** (Remote)
-*Oct 2025 – Present*
+**Technical Lead – React Native | Senior React Native Developer** | **G2 Solutions Pvt. Ltd.** (Remote)
+*Nov 2024 – Present*
  * Leading the development of **Cyberclan**, a secure incident-response platform.
- * Implemented **NIST post-quantum cryptographic algorithms** (Kyber/Dilithium) for secure messaging.
  * Architected **WebRTC-based encrypted video/voice calling** and a Secure Document Vault with AES-256 encryption.
  * Collaborating on a **Django Admin Portal** to enforce Service Level Targets (SLT) and RBAC.
  
-**Senior React Native Developer** | **G2 Solutions Pvt. Ltd.** (Remote)
-*Nov 2024 – Oct 2025*
  * Managed **FAM Connect**, optimizing state management using **RTK Query** for complex API integrations.
  * Improved user retention by resolving operational gaps in event management workflows.
- 
+
 **Software Engineer** | **Maximess Softwares**
 *Sep 2021 – Oct 2022*
  * Migrated the **SkliQ** (HIPaaS) platform from Expo to React Native CLI.
