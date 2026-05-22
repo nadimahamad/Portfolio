@@ -20,26 +20,32 @@ I am passionate about building secure, scalable architectures and am currently e
  * Implemented **NIST post-quantum cryptographic algorithms** (Kyber/Dilithium) for secure messaging.
  * Architected **WebRTC-based encrypted video/voice calling** and a Secure Document Vault with AES-256 encryption.
  * Collaborating on a **Django Admin Portal** to enforce Service Level Targets (SLT) and RBAC.
+ 
 **Senior React Native Developer** | **G2 Solutions Pvt. Ltd.** (Remote)
 *Nov 2024 – Oct 2025*
  * Managed **FAM Connect**, optimizing state management using **RTK Query** for complex API integrations.
  * Improved user retention by resolving operational gaps in event management workflows.
+ 
 **Software Engineer** | **Maximess Softwares**
 *Sep 2021 – Oct 2022*
  * Migrated the **SkliQ** (HIPaaS) platform from Expo to React Native CLI.
  * Integrated third-party plugins and built custom UI components for a Human Intelligence Platform.
+ 
 **Software Engineer** | **Fathom Softwares**
 *Oct 2019 – Sep 2021*
  * **BrandArmy:** B2C Creator platform; integrated **Mux** for live streaming and **Stripe** for payments.
  * **My Life Assistant:** Developed an eCommerce aggregator with **Elasticsearch** and in-app update systems.
  * **Knect:** Built a student communication app with Firebase phone authentication.
+ 
 **Senior Software Developer** | **Workflow Softwares**
 *Jul 2018 – Sep 2019*
  * Developed the **A3 Services** delivery app with Google Maps and order tracking.
  * Built the **Janata Construction** web app (Admin module & GST billing).
+ 
 ### 🎓 Education
  * **Bachelor of Computer Applications (BCA)** | K.L.E's College, Nipani (2015)
  * **12th Science (HSC)** | Devchand College, Arjunnagar (2012)
+ 
 ### 📫 Let's Connect!
  * **Email:** nadeemnaikwade102@gmail.com
  * **Mobile:** +91 8050160758
